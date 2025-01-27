@@ -1,0 +1,17 @@
+{
+  "name": "openshift",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Kinjal Surve",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "cookie-parser": "1.4.*",
+    "express": "^4.21.2",
+    "http-errors": ">=1.6.3"
+  }
+}
